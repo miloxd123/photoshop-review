@@ -3,10 +3,8 @@
 ## Preview 
 <p align="center">
   <img src="https://repository-images.githubusercontent.com/857631301/d1489009-0140-4582-9380-872382b0991f" width="1000">
-**🎨 Key Advantages of Photoshop:**  
   </p>
   
- 
 ✔ **Powerful Tools** - Advanced layers, masks, and selection capabilities  
 ✔ **Creative Cloud Integration** - Works seamlessly with other Adobe apps  
 ✔ **Regular Updates** - New features and performance improvements  

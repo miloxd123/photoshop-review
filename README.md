@@ -6,7 +6,7 @@
 **🎨 Key Advantages of Photoshop:**  
   </p>
   
-✔ **Industry Standard** - Used by photographers and designers worldwide  
+ 
 ✔ **Powerful Tools** - Advanced layers, masks, and selection capabilities  
 ✔ **Creative Cloud Integration** - Works seamlessly with other Adobe apps  
 ✔ **Regular Updates** - New features and performance improvements  

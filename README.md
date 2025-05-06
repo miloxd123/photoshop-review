@@ -1,10 +1,11 @@
-# Adobe Photoshop - Professional Image Editing
+# Adobe Photoshop crck - Professional Image Editing
 
 ## Preview 
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/857631301/d1489009-0140-4582-9380-872382b0991f" width="500">
+  <img src="https://repository-images.githubusercontent.com/857631301/d1489009-0140-4582-9380-872382b0991f" width="1000">
 **🎨 Key Advantages of Photoshop:**  
   </p>
+  
 ✔ **Industry Standard** - Used by photographers and designers worldwide  
 ✔ **Powerful Tools** - Advanced layers, masks, and selection capabilities  
 ✔ **Creative Cloud Integration** - Works seamlessly with other Adobe apps  
